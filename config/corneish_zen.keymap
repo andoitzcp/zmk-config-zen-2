@@ -39,7 +39,7 @@
         compatible = "zmk,keymap";
 
         colemak {
-                display_name = "COLMAK"
+                display_name = "COLMAK";
 // -----------------------------------------------------------------------------------------------------------------------------
 // |        |   Q    |   W    |     F     |     P     |     B     | # |     J     |    L     |    U    |    Y   |   '    |     |
 // | LAYERS | A/LGUI | R/LALT |  S/LCTRL  |  T/LSHFT  |     G     | # |     M     | N/LSHFT  | E/LCTRL | I/LALT | O/LGUI |     |
@@ -55,7 +55,7 @@
         };
 
         qwerty {
-                display_name = "QWERTY"
+                display_name = "QWERTY";
 // -----------------------------------------------------------------------------------------------------------------------------
 // |        |   Q    |   W    |     E     |     R     |     T     | # |     Y     |     U    |    I    |    O   |   P    |     |
 // | LAYERS | A/LGUI | S/LALT |  D/LCTRL  |  F/LSHFT  |     G     | # |     H     | J/LSHFT  | K/LCTRR | L/LALT | ;/LGUI |     |
@@ -71,7 +71,7 @@
         };
 
         gaming_colemak {
-                display_name = "GCLMK"
+                display_name = "GCLMK";
 // ----------------------------------------------------------------------------------------------------
 // |        |   Q   |   W   |   F   |   P   |   B   | # |   J   |   L   |   U   |   Y   |   '   |     |
 // | LAYERS |   A   |   R   |   S   |   T   |   G   | # |   M   |   N   |   E   |   I   |   O   |     |
@@ -87,7 +87,7 @@
         };
 
         gaming_qwerty {
-                display_name = "GQWRT"
+                display_name = "GQWRT";
 // ----------------------------------------------------------------------------------------------------
 // |        |   Q   |   W   |   E   |   R   |   T   | # |   Y   |   U   |   I   |   O   |   P   |     |
 // | LAYERS |   A   |   S   |   D   |   F   |   G   | # |   H   |   J   |   K   |   L   |   ;   |     |
@@ -103,7 +103,7 @@
         };
 
         layers {
-                display_name = "LAYERS"
+                display_name = "LAYERS";
 // ---------------------------------------------------------------------------------------------
 // |      |     |     |     |     |     | # |     |     |         |                |     |     |
 // | HELD |     |     |     |     |     | # |     |     | COLEMAK | GAMING_COLEMAK |     |     |
@@ -120,7 +120,7 @@
 
 
         navigation {
-                display_name = "NAV"
+                display_name = "NAV";
 // -------------------------------------------------------------------------------------------
 // |     |      |      |       |       |     | # | REDO  | CUT  | COPY | PASTE | UNDO  |     |
 // |     | LGUI | LALT | LCTRL | LSHFT |     | # | CAPS  | LEFT | DOWN | UP    | RIGHT |     |
@@ -139,7 +139,7 @@
 // Add mouse keys when implemented in ZMK
 
         mouse {
-                display_name = "MOUSE"
+                display_name = "MOUSE";
 // ------------------------------------------------------------------------------------
 // |     |      |      |       |       |      | # |     |     |     |     |     |     |
 // |     | LGUI | LALT | LCTRL | LSHFT |      | # |     |     |     |     |     |     |
@@ -155,7 +155,7 @@
         };
 
         media {
-                display_name = "MEDIA"
+                display_name = "MEDIA";
 // -----------------------------------------------------------------------------------------------------
 // |     |      |      |       |       |      | # | BOOTLOAD | EP_OFF | BR_D   | BR_U   | EP_ON  |     |
 // |     | LGUI | LALT | LCTRL | LSHFT |      | # | RESET    | PREV   | VOL_D  | VOL_U  | NEXT   |     |
@@ -171,7 +171,7 @@
         };
 
         numbers {
-                display_name = "NUMBER"
+                display_name = "NUMBER";
 // -----------------------------------------------------------------------------------
 // |     |  [  |  7  |  8  |  9  |  ]  | # |     |       |       |      |      |     |
 // |     |  ;  |  4  |  5  |  6  |  =  | # |     | LSHFT | LCTRL | LALT | LGUI |     |
@@ -187,7 +187,7 @@
         };
 
         symbols {
-                display_name = "SYMBOL"
+                display_name = "SYMBOL";
 // ------------------------------------------------------------------------------------
 // |     |  {  |  &  |  *  |  (  |  }  | # |      |       |       |      |      |     |
 // |     |  :  |  $  |  %  |  ^  |  +  | # |      | LSHFT | LCTRL | LALT | LGUI |     |
@@ -203,7 +203,7 @@
         };
 
         function {
-                display_name = "FUNC"
+                display_name = "FUNC";
 // ------------------------------------------------------------------------------------------
 // |     |  F12 |  F7  |  F8  |  F9   | PSCRN | # |     |       |       |      |      |     |
 // |     |  F11 |  F4  |  F5  |  F6   | SLCK  | # |     | LSHFT | LCTRL | LALT | LGUI |     |
