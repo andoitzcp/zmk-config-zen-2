@@ -5,17 +5,17 @@
 #include <dt-bindings/zmk/outputs.h>
 
 // Layer Definitions
-#define COLEMAK 0
-#define QWERTY 1
-#define GAMING_COLEMAK 2
-#define GAMING_QWERTY 3
-#define LAYERS 4
-#define NAV 5
-#define MOUSE 6
-#define MEDIA 7
-#define NUM 8
-#define SYM 9
-#define FN 10
+#define COLEMAK "COLMAK"
+#define QWERTY "QWERTY"
+#define GAMING_COLEMAK "GCOLMAK"
+#define GAMING_QWERTY "GQWERTY"
+#define LAYERS "LAYERS"
+#define NAV "NAV"
+#define MOUSE "MOUSE"
+#define MEDIA "MEDIA"
+#define NUM "NUMBER"
+#define SYM "SYMBOL"
+#define FN "FUNCT"
 
 // Behavior configuration
 &mt {
